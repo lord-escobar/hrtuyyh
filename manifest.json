@@ -14,7 +14,7 @@
     },
     {
       "src": "images/retrosenlogo-bylord-2024.png",
-      "sizes": "512x512", // Örneğin 512x512
+      "sizes": "512x512",
       "type": "image/png"
     }
   ]
