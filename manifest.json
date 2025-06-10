@@ -1,0 +1,21 @@
+{
+  "name": "Retrosen",
+  "short_name": "Retrosen",
+  "start_url": "https://retrosen.biz/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "description": "RetroSen 2020 yılından beri Retro Destek adı altında bulunan bir topluluk projesidir.",
+  "icons": [
+    {
+      "src": "images/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "images/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
